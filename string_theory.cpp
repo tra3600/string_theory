@@ -6,6 +6,7 @@
 //
 //   g++ -std=c++17 -O2 string_theory.cpp -o string_theory
 //   ./string_theory --aide
+#include <algorithm>
 #include <cstdlib>
 #include <cstring>
 #include <filesystem>
@@ -268,7 +269,8 @@ int main(int argc, char** argv) {
         c->executer(std::cout, opt.p);
         fait = true;
     }
-    if (opt.quiz_n > 0) { jeux::quiz(ctx, opt.quiz_n); fait = true; }
+    bool quiz_demande = std::find(opt.jeux_ids.begin(), opt.jeux_ids.end(), "quiz") != opt.jeux_ids.end();
+    if (opt.quiz_n > 0 && !quiz_demande) { jeux::quiz(ctx, opt.quiz_n); fait = true; }
     for (auto& id : opt.jeux_ids) {
         if (!lancer_jeu(ctx, id, opt.quiz_n)) { std::cerr << "jeu inconnu : " << id << "  (voir --liste)\n"; return 2; }
         fait = true;
