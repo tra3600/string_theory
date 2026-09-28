@@ -1,0 +1,62 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900.00 560.00' width='900.00' height='560.00'>
+<rect width='100%' height='100%' fill='#0b1020'/>
+<rect x='82.00' y='66.00' width='788.00' height='428.00' rx='4.00' fill='#131a33' stroke='#2a3358'/>
+<text x='450.00' y='30.00' font-size='20.00' fill='#e6e9f5' text-anchor='middle' font-family='Helvetica,Arial,sans-serif' font-weight='bold'>Où pincer la corde ? Le spectre d'énergie dépend du point de pincement</text>
+<text x='450.00' y='50.00' font-size='12.50' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>pincer en un nœud du mode n supprime ce mode : E_n ∝ sin²(nπx₀)/n²</text>
+<line x1='200.20' y1='66.00' x2='200.20' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='200.20' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>2</text>
+<line x1='357.80' y1='66.00' x2='357.80' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='357.80' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>4</text>
+<line x1='515.40' y1='66.00' x2='515.40' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='515.40' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>6</text>
+<line x1='673.00' y1='66.00' x2='673.00' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='673.00' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>8</text>
+<line x1='830.60' y1='66.00' x2='830.60' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='830.60' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>10</text>
+<line x1='82.00' y1='494.00' x2='870.00' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='498.00' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1e-4</text>
+<line x1='82.00' y1='387.00' x2='870.00' y2='387.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='391.00' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1e-3</text>
+<line x1='82.00' y1='280.00' x2='870.00' y2='280.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='284.00' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>0.01</text>
+<line x1='82.00' y1='173.00' x2='870.00' y2='173.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='177.00' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>0.1</text>
+<line x1='82.00' y1='66.00' x2='870.00' y2='66.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='70.00' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1</text>
+<text x='476.00' y='546.00' font-size='14.00' fill='#e6e9f5' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>numéro du mode n</text>
+<text x='20.00' y='280.00' font-size='14.00' fill='#e6e9f5' text-anchor='middle' font-family='Helvetica,Arial,sans-serif' transform='rotate(-90.00 20.00 280.00)'>fraction d'énergie dans le mode n</text>
+<clipPath id='c'><rect x='82.00' y='66.00' width='788.00' height='428.00'/></clipPath><g clip-path='url(#c)'>
+<circle cx='121.40' cy='75.76' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<circle cx='279.00' cy='177.86' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<circle cx='436.60' cy='225.34' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<circle cx='594.20' cy='256.61' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<circle cx='751.80' cy='279.97' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<polyline fill='none' stroke='#ff7eb6' stroke-width='2.20' stroke-linejoin='round' stroke-linecap='round' stroke-dasharray='5 3' points='121.40,83.65 200.20,148.07 '/>
+<polyline fill='none' stroke='#ff7eb6' stroke-width='2.20' stroke-linejoin='round' stroke-linecap='round' stroke-dasharray='5 3' points='357.80,212.50 436.60,233.23 '/>
+<polyline fill='none' stroke='#ff7eb6' stroke-width='2.20' stroke-linejoin='round' stroke-linecap='round' stroke-dasharray='5 3' points='594.20,264.51 673.00,276.92 '/>
+<circle cx='121.40' cy='83.65' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='200.20' cy='148.07' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='357.80' cy='212.50' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='436.60' cy='233.23' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='594.20' cy='264.51' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='673.00' cy='276.92' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='830.60' cy='297.65' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<polyline fill='none' stroke='#ffd166' stroke-width='2.20' stroke-linejoin='round' stroke-linecap='round' stroke-dasharray='5 3' points='121.40,137.43 200.20,142.09 279.00,150.08 357.80,161.79 436.60,177.86 515.40,199.47 594.20,228.83 673.00,270.93 751.80,341.64 '/>
+<circle cx='121.40' cy='137.43' r='4.50' fill='#ffd166' stroke='#0b1020'/>
+<circle cx='200.20' cy='142.09' r='4.50' fill='#ffd166' stroke='#0b1020'/>
+<circle cx='279.00' cy='150.08' r='4.50' fill='#ffd166' stroke='#0b1020'/>
+<circle cx='357.80' cy='161.79' r='4.50' fill='#ffd166' stroke='#0b1020'/>
+<circle cx='436.60' cy='177.86' r='4.50' fill='#ffd166' stroke='#0b1020'/>
+<circle cx='515.40' cy='199.47' r='4.50' fill='#ffd166' stroke='#0b1020'/>
+<circle cx='594.20' cy='228.83' r='4.50' fill='#ffd166' stroke='#0b1020'/>
+<circle cx='673.00' cy='270.93' r='4.50' fill='#ffd166' stroke='#0b1020'/>
+<circle cx='751.80' cy='341.64' r='4.50' fill='#ffd166' stroke='#0b1020'/>
+</g>
+<rect x='88.00' y='68.00' width='165.40' height='63.00' rx='4.00' fill='#0b1020' stroke='#2a3358'/>
+<line x1='94.00' y1='77.00' x2='114.00' y2='77.00' stroke='#5cc8ff' stroke-width='3.00' stroke-dasharray='5 3'/>
+<text x='120.00' y='81.00' font-size='12.00' fill='#e6e9f5' text-anchor='start' font-family='Helvetica,Arial,sans-serif'>x₀ = 1/2 (milieu)</text>
+<line x1='94.00' y1='96.00' x2='114.00' y2='96.00' stroke='#ff7eb6' stroke-width='3.00' stroke-dasharray='5 3'/>
+<text x='120.00' y='100.00' font-size='12.00' fill='#e6e9f5' text-anchor='start' font-family='Helvetica,Arial,sans-serif'>x₀ = 1/3</text>
+<line x1='94.00' y1='115.00' x2='114.00' y2='115.00' stroke='#ffd166' stroke-width='3.00' stroke-dasharray='5 3'/>
+<text x='120.00' y='119.00' font-size='12.00' fill='#e6e9f5' text-anchor='start' font-family='Helvetica,Arial,sans-serif'>x₀ = 1/10</text>
+</svg>

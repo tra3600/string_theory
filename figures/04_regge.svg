@@ -1,0 +1,52 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900.00 560.00' width='900.00' height='560.00'>
+<rect width='100%' height='100%' fill='#0b1020'/>
+<rect x='82.00' y='66.00' width='788.00' height='428.00' rx='4.00' fill='#131a33' stroke='#2a3358'/>
+<text x='450.00' y='30.00' font-size='20.00' fill='#e6e9f5' text-anchor='middle' font-family='Helvetica,Arial,sans-serif' font-weight='bold'>Trajectoire de Regge des mésons ρ : la corde qui a donné naissance à la théorie</text>
+<text x='450.00' y='50.00' font-size='12.50' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>J = α₀ + α' m²  avec  α' = 0.838 GeV⁻²  (R² = 0.99713)  →  tension T = 1/(2πα') ≈ 0.19 GeV²</text>
+<line x1='82.00' y1='66.00' x2='82.00' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='82.00' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>0</text>
+<line x1='217.86' y1='66.00' x2='217.86' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='217.86' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>1</text>
+<line x1='353.72' y1='66.00' x2='353.72' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='353.72' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>2</text>
+<line x1='489.59' y1='66.00' x2='489.59' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='489.59' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>3</text>
+<line x1='625.45' y1='66.00' x2='625.45' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='625.45' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>4</text>
+<line x1='761.31' y1='66.00' x2='761.31' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='761.31' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>5</text>
+<line x1='82.00' y1='494.00' x2='870.00' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='498.00' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>0</text>
+<line x1='82.00' y1='424.97' x2='870.00' y2='424.97' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='428.97' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1</text>
+<line x1='82.00' y1='355.94' x2='870.00' y2='355.94' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='359.94' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>2</text>
+<line x1='82.00' y1='286.90' x2='870.00' y2='286.90' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='290.90' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>3</text>
+<line x1='82.00' y1='217.87' x2='870.00' y2='217.87' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='221.87' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>4</text>
+<line x1='82.00' y1='148.84' x2='870.00' y2='148.84' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='152.84' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>5</text>
+<line x1='82.00' y1='79.81' x2='870.00' y2='79.81' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='83.81' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>6</text>
+<text x='476.00' y='546.00' font-size='14.00' fill='#e6e9f5' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>masse au carré  m² (GeV²)</text>
+<text x='20.00' y='280.00' font-size='14.00' fill='#e6e9f5' text-anchor='middle' font-family='Helvetica,Arial,sans-serif' transform='rotate(-90.00 20.00 280.00)'>spin J</text>
+<clipPath id='c'><rect x='82.00' y='66.00' width='788.00' height='428.00'/></clipPath><g clip-path='url(#c)'>
+<circle cx='163.60' cy='424.97' r='4.50' fill='#ffd166' stroke='#0b1020'/>
+<circle cx='318.01' cy='355.94' r='4.50' fill='#ffd166' stroke='#0b1020'/>
+<circle cx='469.58' cy='286.90' r='4.50' fill='#ffd166' stroke='#0b1020'/>
+<circle cx='623.28' cy='217.87' r='4.50' fill='#ffd166' stroke='#0b1020'/>
+<circle cx='819.58' cy='148.84' r='4.50' fill='#ffd166' stroke='#0b1020'/>
+<polyline fill='none' stroke='#5cc8ff' stroke-width='2.20' stroke-linejoin='round' stroke-linecap='round' stroke-dasharray='8 5' points='82.00,455.80 98.08,448.95 114.16,442.11 130.24,435.26 146.33,428.42 162.41,421.57 178.49,414.73 194.57,407.88 210.65,401.04 226.73,394.19 242.82,387.35 258.90,380.50 274.98,373.66 291.06,366.81 307.14,359.97 323.22,353.13 339.31,346.28 355.39,339.44 371.47,332.59 387.55,325.75 403.63,318.90 419.71,312.06 435.80,305.21 451.88,298.37 467.96,291.52 484.04,284.68 500.12,277.83 516.20,270.99 532.29,264.14 548.37,257.30 564.45,250.45 580.53,243.61 596.61,236.76 612.69,229.92 628.78,223.07 644.86,216.23 660.94,209.38 677.02,202.54 693.10,195.69 709.18,188.85 725.27,182.00 741.35,175.16 757.43,168.31 773.51,161.47 789.59,154.62 805.67,147.78 821.76,140.93 837.84,134.09 853.92,127.24 870.00,120.40 '/>
+</g>
+<text x='174.47' y='444.30' font-size='12.00' fill='#e6e9f5' text-anchor='start' font-family='Helvetica,Arial,sans-serif'>ρ(770)</text>
+<text x='328.88' y='375.26' font-size='12.00' fill='#e6e9f5' text-anchor='start' font-family='Helvetica,Arial,sans-serif'>a2(1320)</text>
+<text x='480.45' y='306.23' font-size='12.00' fill='#e6e9f5' text-anchor='start' font-family='Helvetica,Arial,sans-serif'>ρ3(1690)</text>
+<text x='634.15' y='237.20' font-size='12.00' fill='#e6e9f5' text-anchor='start' font-family='Helvetica,Arial,sans-serif'>a4(2040)</text>
+<text x='830.45' y='168.17' font-size='12.00' fill='#e6e9f5' text-anchor='start' font-family='Helvetica,Arial,sans-serif'>ρ5(2350)</text>
+<rect x='88.00' y='68.00' width='257.80' height='44.00' rx='4.00' fill='#0b1020' stroke='#2a3358'/>
+<line x1='94.00' y1='77.00' x2='114.00' y2='77.00' stroke='#ffd166' stroke-width='3.00'/>
+<text x='120.00' y='81.00' font-size='12.00' fill='#e6e9f5' text-anchor='start' font-family='Helvetica,Arial,sans-serif'>mesons mesurés (PDG)</text>
+<line x1='94.00' y1='96.00' x2='114.00' y2='96.00' stroke='#5cc8ff' stroke-width='3.00' stroke-dasharray='8 5'/>
+<text x='120.00' y='100.00' font-size='12.00' fill='#e6e9f5' text-anchor='start' font-family='Helvetica,Arial,sans-serif'>droite de Regge (corde tournante)</text>
+</svg>

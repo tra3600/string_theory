@@ -1,0 +1,97 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900.00 560.00' width='900.00' height='560.00'>
+<rect width='100%' height='100%' fill='#0b1020'/>
+<rect x='82.00' y='66.00' width='788.00' height='428.00' rx='4.00' fill='#131a33' stroke='#2a3358'/>
+<text x='450.00' y='30.00' font-size='20.00' fill='#e6e9f5' text-anchor='middle' font-family='Helvetica,Arial,sans-serif' font-weight='bold'>Explosion du nombre d'états : le spectre de la corde bosonique</text>
+<text x='450.00' y='50.00' font-size='12.50' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>D = 26 : 24 directions transverses. Niveau 1 = 24 états (photon/gluon sans masse), niveau 2 = 324...</text>
+<line x1='82.00' y1='66.00' x2='82.00' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='82.00' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>0</text>
+<line x1='160.80' y1='66.00' x2='160.80' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='160.80' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>2</text>
+<line x1='239.60' y1='66.00' x2='239.60' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='239.60' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>4</text>
+<line x1='318.40' y1='66.00' x2='318.40' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='318.40' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>6</text>
+<line x1='397.20' y1='66.00' x2='397.20' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='397.20' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>8</text>
+<line x1='476.00' y1='66.00' x2='476.00' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='476.00' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>10</text>
+<line x1='554.80' y1='66.00' x2='554.80' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='554.80' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>12</text>
+<line x1='633.60' y1='66.00' x2='633.60' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='633.60' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>14</text>
+<line x1='712.40' y1='66.00' x2='712.40' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='712.40' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>16</text>
+<line x1='791.20' y1='66.00' x2='791.20' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='791.20' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>18</text>
+<line x1='870.00' y1='66.00' x2='870.00' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='870.00' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>20</text>
+<line x1='82.00' y1='494.00' x2='870.00' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='498.00' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1</text>
+<line x1='82.00' y1='434.28' x2='870.00' y2='434.28' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='438.28' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1e4</text>
+<line x1='82.00' y1='374.57' x2='870.00' y2='374.57' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='378.57' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1e8</text>
+<line x1='82.00' y1='314.85' x2='870.00' y2='314.85' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='318.85' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1e12</text>
+<line x1='82.00' y1='255.14' x2='870.00' y2='255.14' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='259.14' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1e16</text>
+<line x1='82.00' y1='195.42' x2='870.00' y2='195.42' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='199.42' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1e20</text>
+<line x1='82.00' y1='135.71' x2='870.00' y2='135.71' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='139.71' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1e24</text>
+<line x1='82.00' y1='75.99' x2='870.00' y2='75.99' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='79.99' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1e28</text>
+<text x='476.00' y='546.00' font-size='14.00' fill='#e6e9f5' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>niveau d'excitation N</text>
+<text x='20.00' y='280.00' font-size='14.00' fill='#e6e9f5' text-anchor='middle' font-family='Helvetica,Arial,sans-serif' transform='rotate(-90.00 20.00 280.00)'>dégénérescence</text>
+<clipPath id='c'><rect x='82.00' y='66.00' width='788.00' height='428.00'/></clipPath><g clip-path='url(#c)'>
+<polyline fill='none' stroke='#5cc8ff' stroke-width='2.20' stroke-linejoin='round' stroke-linecap='round' points='82.00,494.00 121.40,473.40 160.80,456.52 200.20,441.67 239.60,428.18 279.00,415.68 318.40,403.97 357.80,392.89 397.20,382.34 436.60,372.24 476.00,362.54 515.40,353.19 554.80,344.14 594.20,335.38 633.60,326.86 673.00,318.58 712.40,310.50 751.80,302.62 791.20,294.92 830.60,287.38 870.00,280.00 '/>
+<circle cx='82.00' cy='494.00' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<circle cx='121.40' cy='473.40' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<circle cx='160.80' cy='456.52' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<circle cx='200.20' cy='441.67' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<circle cx='239.60' cy='428.18' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<circle cx='279.00' cy='415.68' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<circle cx='318.40' cy='403.97' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<circle cx='357.80' cy='392.89' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<circle cx='397.20' cy='382.34' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<circle cx='436.60' cy='372.24' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<circle cx='476.00' cy='362.54' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<circle cx='515.40' cy='353.19' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<circle cx='554.80' cy='344.14' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<circle cx='594.20' cy='335.38' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<circle cx='633.60' cy='326.86' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<circle cx='673.00' cy='318.58' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<circle cx='712.40' cy='310.50' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<circle cx='751.80' cy='302.62' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<circle cx='791.20' cy='294.92' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<circle cx='830.60' cy='287.38' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<circle cx='870.00' cy='280.00' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<polyline fill='none' stroke='#ff7eb6' stroke-width='2.20' stroke-linejoin='round' stroke-linecap='round' points='82.00,494.00 121.40,452.79 160.80,419.04 200.20,389.34 239.60,362.35 279.00,337.36 318.40,313.93 357.80,291.77 397.20,270.67 436.60,250.48 476.00,231.08 515.40,212.38 554.80,194.29 594.20,176.76 633.60,159.73 673.00,143.15 712.40,127.00 751.80,111.24 791.20,95.83 830.60,80.76 870.00,66.00 '/>
+<circle cx='82.00' cy='494.00' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='121.40' cy='452.79' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='160.80' cy='419.04' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='200.20' cy='389.34' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='239.60' cy='362.35' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='279.00' cy='337.36' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='318.40' cy='313.93' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='357.80' cy='291.77' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='397.20' cy='270.67' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='436.60' cy='250.48' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='476.00' cy='231.08' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='515.40' cy='212.38' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='554.80' cy='194.29' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='594.20' cy='176.76' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='633.60' cy='159.73' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='673.00' cy='143.15' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='712.40' cy='127.00' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='751.80' cy='111.24' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='791.20' cy='95.83' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='830.60' cy='80.76' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='870.00' cy='66.00' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+</g>
+<rect x='88.00' y='68.00' width='244.60' height='44.00' rx='4.00' fill='#0b1020' stroke='#2a3358'/>
+<line x1='94.00' y1='77.00' x2='114.00' y2='77.00' stroke='#5cc8ff' stroke-width='3.00'/>
+<text x='120.00' y='81.00' font-size='12.00' fill='#e6e9f5' text-anchor='start' font-family='Helvetica,Arial,sans-serif'>corde ouverte  d(N)</text>
+<line x1='94.00' y1='96.00' x2='114.00' y2='96.00' stroke='#ff7eb6' stroke-width='3.00'/>
+<text x='120.00' y='100.00' font-size='12.00' fill='#e6e9f5' text-anchor='start' font-family='Helvetica,Arial,sans-serif'>corde fermée  d(N)²  (N = Ñ)</text>
+</svg>

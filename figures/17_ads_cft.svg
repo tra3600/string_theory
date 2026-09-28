@@ -1,0 +1,37 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900.00 560.00' width='900.00' height='560.00'>
+<rect width='100%' height='100%' fill='#0b1020'/>
+<rect x='82.00' y='66.00' width='788.00' height='428.00' rx='4.00' fill='#131a33' stroke='#2a3358'/>
+<text x='450.00' y='30.00' font-size='20.00' fill='#e6e9f5' text-anchor='middle' font-family='Helvetica,Arial,sans-serif' font-weight='bold'>AdS/CFT (Maldacena 1997) : la force entre quarks calculée avec une corde</text>
+<text x='450.00' y='50.00' font-size='12.50' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>coefficient de −L·V(L) dans N=4 Super-Yang-Mills : faible couplage λ/4π  contre  fort couplage (corde dans AdS₅) 4π²√λ/Γ(¼)⁴</text>
+<line x1='82.00' y1='66.00' x2='82.00' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='82.00' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>0.1</text>
+<line x1='279.00' y1='66.00' x2='279.00' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='279.00' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>1</text>
+<line x1='476.00' y1='66.00' x2='476.00' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='476.00' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>10</text>
+<line x1='673.00' y1='66.00' x2='673.00' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='673.00' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>100</text>
+<line x1='870.00' y1='66.00' x2='870.00' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='870.00' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>1000</text>
+<line x1='82.00' y1='483.38' x2='870.00' y2='483.38' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='487.38' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>0.01</text>
+<line x1='82.00' y1='376.38' x2='870.00' y2='376.38' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='380.38' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>0.1</text>
+<line x1='82.00' y1='269.38' x2='870.00' y2='269.38' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='273.38' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1</text>
+<line x1='82.00' y1='162.38' x2='870.00' y2='162.38' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='166.38' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>10</text>
+<text x='476.00' y='546.00' font-size='14.00' fill='#e6e9f5' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>couplage de 't Hooft  λ = g²N</text>
+<text x='20.00' y='280.00' font-size='14.00' fill='#e6e9f5' text-anchor='middle' font-family='Helvetica,Arial,sans-serif' transform='rotate(-90.00 20.00 280.00)'>−L·V(L)</text>
+<clipPath id='c'><rect x='82.00' y='66.00' width='788.00' height='428.00'/></clipPath><g clip-path='url(#c)'>
+<line x1='279.00' y1='66.00' x2='279.00' y2='494.00' stroke='#5b6aa8' stroke-width='1.50' stroke-dasharray='6 4'/>
+<polyline fill='none' stroke='#5cc8ff' stroke-width='2.20' stroke-linejoin='round' stroke-linecap='round' points='82.00,494.00 89.96,489.68 97.92,485.35 105.88,481.03 113.84,476.71 121.80,472.38 129.76,468.06 137.72,463.74 145.68,459.41 153.64,455.09 161.60,450.77 169.56,446.44 177.52,442.12 185.47,437.80 193.43,433.47 201.39,429.15 209.35,424.83 217.31,420.51 225.27,416.18 233.23,411.86 241.19,407.54 249.15,403.21 257.11,398.89 265.07,394.57 273.03,390.24 280.99,385.92 288.95,381.60 296.91,377.27 304.87,372.95 312.83,368.63 320.79,364.30 328.75,359.98 336.71,355.66 344.67,351.33 352.63,347.01 360.59,342.69 368.55,338.36 376.51,334.04 384.46,329.72 392.42,325.39 400.38,321.07 408.34,316.75 416.30,312.42 424.26,308.10 432.22,303.78 440.18,299.45 448.14,295.13 456.10,290.81 464.06,286.48 472.02,282.16 479.98,277.84 487.94,273.52 495.90,269.19 503.86,264.87 511.82,260.55 519.78,256.22 527.74,251.90 535.70,247.58 543.66,243.25 551.62,238.93 559.58,234.61 567.54,230.28 575.49,225.96 583.45,221.64 591.41,217.31 599.37,212.99 607.33,208.67 615.29,204.34 623.25,200.02 631.21,195.70 639.17,191.37 647.13,187.05 655.09,182.73 663.05,178.40 671.01,174.08 678.97,169.76 686.93,165.43 694.89,161.11 702.85,156.79 710.81,152.46 718.77,148.14 726.73,143.82 734.69,139.49 742.65,135.17 750.61,130.85 758.57,126.53 766.53,122.20 774.48,117.88 782.44,113.56 790.40,109.23 798.36,104.91 806.32,100.59 814.28,96.26 822.24,91.94 830.20,87.62 838.16,83.29 846.12,78.97 854.08,74.65 862.04,70.32 870.00,66.00 '/>
+<polyline fill='none' stroke='#ff7eb6' stroke-width='2.20' stroke-linejoin='round' stroke-linecap='round' points='82.00,391.49 89.96,389.33 97.92,387.17 105.88,385.00 113.84,382.84 121.80,380.68 129.76,378.52 137.72,376.36 145.68,374.20 153.64,372.03 161.60,369.87 169.56,367.71 177.52,365.55 185.47,363.39 193.43,361.23 201.39,359.06 209.35,356.90 217.31,354.74 225.27,352.58 233.23,350.42 241.19,348.26 249.15,346.10 257.11,343.93 265.07,341.77 273.03,339.61 280.99,337.45 288.95,335.29 296.91,333.13 304.87,330.96 312.83,328.80 320.79,326.64 328.75,324.48 336.71,322.32 344.67,320.16 352.63,317.99 360.59,315.83 368.55,313.67 376.51,311.51 384.46,309.35 392.42,307.19 400.38,305.02 408.34,302.86 416.30,300.70 424.26,298.54 432.22,296.38 440.18,294.22 448.14,292.05 456.10,289.89 464.06,287.73 472.02,285.57 479.98,283.41 487.94,281.25 495.90,279.09 503.86,276.92 511.82,274.76 519.78,272.60 527.74,270.44 535.70,268.28 543.66,266.12 551.62,263.95 559.58,261.79 567.54,259.63 575.49,257.47 583.45,255.31 591.41,253.15 599.37,250.98 607.33,248.82 615.29,246.66 623.25,244.50 631.21,242.34 639.17,240.18 647.13,238.01 655.09,235.85 663.05,233.69 671.01,231.53 678.97,229.37 686.93,227.21 694.89,225.04 702.85,222.88 710.81,220.72 718.77,218.56 726.73,216.40 734.69,214.24 742.65,212.08 750.61,209.91 758.57,207.75 766.53,205.59 774.48,203.43 782.44,201.27 790.40,199.11 798.36,196.94 806.32,194.78 814.28,192.62 822.24,190.46 830.20,188.30 838.16,186.14 846.12,183.97 854.08,181.81 862.04,179.65 870.00,177.49 '/>
+</g>
+<text x='284.00' y='82.00' font-size='12.00' fill='#5b6aa8' text-anchor='start' font-family='Helvetica,Arial,sans-serif'>λ ~ 1 : transition</text>
+<rect x='88.00' y='68.00' width='277.60' height='44.00' rx='4.00' fill='#0b1020' stroke='#2a3358'/>
+<line x1='94.00' y1='77.00' x2='114.00' y2='77.00' stroke='#5cc8ff' stroke-width='3.00'/>
+<text x='120.00' y='81.00' font-size='12.00' fill='#e6e9f5' text-anchor='start' font-family='Helvetica,Arial,sans-serif'>théorie des perturbations  λ/(4π)</text>
+<line x1='94.00' y1='96.00' x2='114.00' y2='96.00' stroke='#ff7eb6' stroke-width='3.00'/>
+<text x='120.00' y='100.00' font-size='12.00' fill='#e6e9f5' text-anchor='start' font-family='Helvetica,Arial,sans-serif'>corde dans AdS₅  ≈ 0,2285 √λ</text>
+</svg>

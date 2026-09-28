@@ -1,0 +1,36 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900.00 560.00' width='900.00' height='560.00'>
+<rect width='100%' height='100%' fill='#0b1020'/>
+<rect x='82.00' y='66.00' width='788.00' height='428.00' rx='4.00' fill='#131a33' stroke='#2a3358'/>
+<text x='450.00' y='30.00' font-size='20.00' fill='#e6e9f5' text-anchor='middle' font-family='Helvetica,Arial,sans-serif' font-weight='bold'>Effet Casimir : l'énergie de point zéro 1+2+3+… = −1/12 se mesure au laboratoire</text>
+<text x='450.00' y='50.00' font-size='12.50' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>pression entre deux plaques conductrices :  P = −π²ħc / (240 d⁴)  — même mécanisme que la dimension critique D = 26</text>
+<line x1='82.00' y1='66.00' x2='82.00' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='82.00' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>1e-8</text>
+<line x1='344.67' y1='66.00' x2='344.67' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='344.67' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>1e-7</text>
+<line x1='607.33' y1='66.00' x2='607.33' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='607.33' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>1e-6</text>
+<line x1='870.00' y1='66.00' x2='870.00' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='870.00' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>1e-5</text>
+<line x1='82.00' y1='462.40' x2='870.00' y2='462.40' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='466.40' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1e-6</text>
+<line x1='82.00' y1='391.07' x2='870.00' y2='391.07' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='395.07' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1e-4</text>
+<line x1='82.00' y1='319.73' x2='870.00' y2='319.73' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='323.73' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>0.01</text>
+<line x1='82.00' y1='248.40' x2='870.00' y2='248.40' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='252.40' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1</text>
+<line x1='82.00' y1='177.07' x2='870.00' y2='177.07' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='181.07' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>100</text>
+<line x1='82.00' y1='105.73' x2='870.00' y2='105.73' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='109.73' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1e4</text>
+<text x='476.00' y='546.00' font-size='14.00' fill='#e6e9f5' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>distance d entre les plaques (m)</text>
+<text x='20.00' y='280.00' font-size='14.00' fill='#e6e9f5' text-anchor='middle' font-family='Helvetica,Arial,sans-serif' transform='rotate(-90.00 20.00 280.00)'>|pression| (Pa)</text>
+<clipPath id='c'><rect x='82.00' y='66.00' width='788.00' height='428.00'/></clipPath><g clip-path='url(#c)'>
+<line x1='82.00' y1='69.86' x2='870.00' y2='69.86' stroke='#ff9f68' stroke-width='1.50' stroke-dasharray='6 4'/>
+<polyline fill='none' stroke='#5cc8ff' stroke-width='2.20' stroke-linejoin='round' stroke-linecap='round' points='82.00,66.00 89.96,70.32 97.92,74.65 105.88,78.97 113.84,83.29 121.80,87.62 129.76,91.94 137.72,96.26 145.68,100.59 153.64,104.91 161.60,109.23 169.56,113.56 177.52,117.88 185.47,122.20 193.43,126.53 201.39,130.85 209.35,135.17 217.31,139.49 225.27,143.82 233.23,148.14 241.19,152.46 249.15,156.79 257.11,161.11 265.07,165.43 273.03,169.76 280.99,174.08 288.95,178.40 296.91,182.73 304.87,187.05 312.83,191.37 320.79,195.70 328.75,200.02 336.71,204.34 344.67,208.67 352.63,212.99 360.59,217.31 368.55,221.64 376.51,225.96 384.46,230.28 392.42,234.61 400.38,238.93 408.34,243.25 416.30,247.58 424.26,251.90 432.22,256.22 440.18,260.55 448.14,264.87 456.10,269.19 464.06,273.52 472.02,277.84 479.98,282.16 487.94,286.48 495.90,290.81 503.86,295.13 511.82,299.45 519.78,303.78 527.74,308.10 535.70,312.42 543.66,316.75 551.62,321.07 559.58,325.39 567.54,329.72 575.49,334.04 583.45,338.36 591.41,342.69 599.37,347.01 607.33,351.33 615.29,355.66 623.25,359.98 631.21,364.30 639.17,368.63 647.13,372.95 655.09,377.27 663.05,381.60 671.01,385.92 678.97,390.24 686.93,394.57 694.89,398.89 702.85,403.21 710.81,407.54 718.77,411.86 726.73,416.18 734.69,420.51 742.65,424.83 750.61,429.15 758.57,433.47 766.53,437.80 774.48,442.12 782.44,446.44 790.40,450.77 798.36,455.09 806.32,459.41 814.28,463.74 822.24,468.06 830.20,472.38 838.16,476.71 846.12,481.03 854.08,485.35 862.04,489.68 870.00,494.00 '/>
+</g>
+<text x='864.00' y='63.86' font-size='12.00' fill='#ff9f68' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1 atmosphère</text>
+<rect x='88.00' y='68.00' width='112.60' height='25.00' rx='4.00' fill='#0b1020' stroke='#2a3358'/>
+<line x1='94.00' y1='77.00' x2='114.00' y2='77.00' stroke='#5cc8ff' stroke-width='3.00'/>
+<text x='120.00' y='81.00' font-size='12.00' fill='#e6e9f5' text-anchor='start' font-family='Helvetica,Arial,sans-serif'>|P_Casimir|</text>
+</svg>

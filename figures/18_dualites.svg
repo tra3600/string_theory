@@ -1,0 +1,34 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900.00 720.00' width='900.00' height='720.00'>
+<rect width='100%' height='100%' fill='#0b1020'/>
+<rect x='20.00' y='20.00' width='860.00' height='680.00' rx='8.00' fill='#131a33' stroke='#2a3358'/>
+<text x='450.00' y='50.00' font-size='20.00' fill='#e6e9f5' text-anchor='middle' font-family='Helvetica,Arial,sans-serif' font-weight='bold'>La carte des dualités : cinq théories des cordes, une seule théorie M</text>
+<text x='450.00' y='72.00' font-size='12.50' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>chaque trait est une équivalence exacte (T = T-dualité R ↔ α'/R, S = dualité de couplage g ↔ 1/g)</text>
+<line x1='200.00' y1='190.00' x2='200.00' y2='560.00' stroke='#8090c8' stroke-width='2.20'/>
+<text x='200.00' y='367.00' font-size='13.00' fill='#ffd166' text-anchor='middle' font-family='Helvetica,Arial,sans-serif' font-weight='bold'>S</text>
+<line x1='200.00' y1='190.00' x2='700.00' y2='190.00' stroke='#8090c8' stroke-width='2.20'/>
+<text x='450.00' y='182.00' font-size='13.00' fill='#ffd166' text-anchor='middle' font-family='Helvetica,Arial,sans-serif' font-weight='bold'>orientifold</text>
+<line x1='450.00' y1='130.00' x2='700.00' y2='190.00' stroke='#8090c8' stroke-width='2.20'/>
+<text x='575.00' y='152.00' font-size='13.00' fill='#ffd166' text-anchor='middle' font-family='Helvetica,Arial,sans-serif' font-weight='bold'>T</text>
+<line x1='200.00' y1='560.00' x2='700.00' y2='560.00' stroke='#8090c8' stroke-width='2.20'/>
+<text x='450.00' y='552.00' font-size='13.00' fill='#ffd166' text-anchor='middle' font-family='Helvetica,Arial,sans-serif' font-weight='bold'>T</text>
+<line x1='450.00' y1='370.00' x2='450.00' y2='130.00' stroke='#8090c8' stroke-width='2.20'/>
+<text x='450.00' y='242.00' font-size='13.00' fill='#ffd166' text-anchor='middle' font-family='Helvetica,Arial,sans-serif' font-weight='bold'>g→∞</text>
+<line x1='450.00' y1='370.00' x2='700.00' y2='560.00' stroke='#8090c8' stroke-width='2.20'/>
+<text x='575.00' y='457.00' font-size='13.00' fill='#ffd166' text-anchor='middle' font-family='Helvetica,Arial,sans-serif' font-weight='bold'>g→∞ (segment)</text>
+<line x1='450.00' y1='370.00' x2='200.00' y2='190.00' stroke='#2a3358' stroke-width='1.30' stroke-dasharray='3 5'/>
+<line x1='450.00' y1='370.00' x2='700.00' y2='190.00' stroke='#2a3358' stroke-width='1.30' stroke-dasharray='3 5'/>
+<line x1='450.00' y1='370.00' x2='200.00' y2='560.00' stroke='#2a3358' stroke-width='1.30' stroke-dasharray='3 5'/>
+<rect x='358.00' y='348.00' width='184.00' height='44.00' rx='22.00' fill='#0b1020' stroke='#ffd166'/>
+<text x='450.00' y='375.00' font-size='14.00' fill='#ffd166' text-anchor='middle' font-family='Helvetica,Arial,sans-serif' font-weight='bold'>M-théorie (11D)</text>
+<rect x='108.00' y='168.00' width='184.00' height='44.00' rx='22.00' fill='#0b1020' stroke='#5cc8ff'/>
+<text x='200.00' y='195.00' font-size='14.00' fill='#5cc8ff' text-anchor='middle' font-family='Helvetica,Arial,sans-serif' font-weight='bold'>Type I (SO(32))</text>
+<rect x='358.00' y='108.00' width='184.00' height='44.00' rx='22.00' fill='#0b1020' stroke='#ff7eb6'/>
+<text x='450.00' y='135.00' font-size='14.00' fill='#ff7eb6' text-anchor='middle' font-family='Helvetica,Arial,sans-serif' font-weight='bold'>Type IIA</text>
+<rect x='608.00' y='168.00' width='184.00' height='44.00' rx='22.00' fill='#0b1020' stroke='#7ee081'/>
+<text x='700.00' y='195.00' font-size='14.00' fill='#7ee081' text-anchor='middle' font-family='Helvetica,Arial,sans-serif' font-weight='bold'>Type IIB</text>
+<rect x='108.00' y='538.00' width='184.00' height='44.00' rx='22.00' fill='#0b1020' stroke='#c792ea'/>
+<text x='200.00' y='565.00' font-size='14.00' fill='#c792ea' text-anchor='middle' font-family='Helvetica,Arial,sans-serif' font-weight='bold'>Hétérotique SO(32)</text>
+<rect x='608.00' y='538.00' width='184.00' height='44.00' rx='22.00' fill='#0b1020' stroke='#ff9f68'/>
+<text x='700.00' y='565.00' font-size='14.00' fill='#ff9f68' text-anchor='middle' font-family='Helvetica,Arial,sans-serif' font-weight='bold'>Hétérotique E₈×E₈</text>
+<text x='450.00' y='660.00' font-size='12.50' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>IIB s'auto-duale sous S : g_s → 1/g_s.   Le rayon de la 11e dimension est R₁₁ = g_s ℓ_s (IIA fortement couplée).</text>
+</svg>

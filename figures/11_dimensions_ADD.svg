@@ -1,0 +1,76 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900.00 560.00' width='900.00' height='560.00'>
+<rect width='100%' height='100%' fill='#0b1020'/>
+<rect x='82.00' y='66.00' width='788.00' height='428.00' rx='4.00' fill='#131a33' stroke='#2a3358'/>
+<text x='450.00' y='30.00' font-size='20.00' fill='#e6e9f5' text-anchor='middle' font-family='Helvetica,Arial,sans-serif' font-weight='bold'>Grandes dimensions supplémentaires (ADD) : combien mesurent-elles ?</text>
+<text x='450.00' y='50.00' font-size='12.50' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>M_Pl² ≈ M*^(n+2) R^n : si la gravité ne fait sentir sa vraie force qu'à M*, les dimensions cachées peuvent être macroscopiques</text>
+<line x1='111.19' y1='66.00' x2='111.19' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='111.19' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>1</text>
+<line x1='257.11' y1='66.00' x2='257.11' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='257.11' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>2</text>
+<line x1='403.04' y1='66.00' x2='403.04' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='403.04' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>3</text>
+<line x1='548.96' y1='66.00' x2='548.96' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='548.96' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>4</text>
+<line x1='694.89' y1='66.00' x2='694.89' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='694.89' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>5</text>
+<line x1='840.81' y1='66.00' x2='840.81' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='840.81' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>6</text>
+<line x1='82.00' y1='494.00' x2='870.00' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='498.00' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1e-20</text>
+<line x1='82.00' y1='446.44' x2='870.00' y2='446.44' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='450.44' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1e-16</text>
+<line x1='82.00' y1='398.89' x2='870.00' y2='398.89' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='402.89' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1e-12</text>
+<line x1='82.00' y1='351.33' x2='870.00' y2='351.33' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='355.33' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1e-8</text>
+<line x1='82.00' y1='303.78' x2='870.00' y2='303.78' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='307.78' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1e-4</text>
+<line x1='82.00' y1='256.22' x2='870.00' y2='256.22' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='260.22' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1</text>
+<line x1='82.00' y1='208.67' x2='870.00' y2='208.67' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='212.67' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1e4</text>
+<line x1='82.00' y1='161.11' x2='870.00' y2='161.11' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='165.11' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1e8</text>
+<line x1='82.00' y1='113.56' x2='870.00' y2='113.56' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='117.56' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1e12</text>
+<line x1='82.00' y1='66.00' x2='870.00' y2='66.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='70.00' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1e16</text>
+<text x='476.00' y='546.00' font-size='14.00' fill='#e6e9f5' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>nombre n de dimensions supplémentaires</text>
+<text x='20.00' y='280.00' font-size='14.00' fill='#e6e9f5' text-anchor='middle' font-family='Helvetica,Arial,sans-serif' transform='rotate(-90.00 20.00 280.00)'>rayon R (mètres)</text>
+<clipPath id='c'><rect x='82.00' y='66.00' width='788.00' height='428.00'/></clipPath><g clip-path='url(#c)'>
+<line x1='82.00' y1='309.99' x2='870.00' y2='309.99' stroke='#ff9f68' stroke-width='1.50' stroke-dasharray='6 4'/>
+<line x1='82.00' y1='123.36' x2='870.00' y2='123.36' stroke='#ff7eb6' stroke-width='1.50' stroke-dasharray='6 4'/>
+<line x1='82.00' y1='470.22' x2='870.00' y2='470.22' stroke='#7ee081' stroke-width='1.50' stroke-dasharray='6 4'/>
+<polyline fill='none' stroke='#5cc8ff' stroke-width='2.20' stroke-linejoin='round' stroke-linecap='round' points='111.19,96.10 257.11,287.35 403.04,351.10 548.96,382.98 694.89,402.10 840.81,414.85 '/>
+<circle cx='111.19' cy='96.10' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<circle cx='257.11' cy='287.35' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<circle cx='403.04' cy='351.10' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<circle cx='548.96' cy='382.98' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<circle cx='694.89' cy='402.10' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<circle cx='840.81' cy='414.85' r='4.50' fill='#5cc8ff' stroke='#0b1020'/>
+<polyline fill='none' stroke='#ff7eb6' stroke-width='2.20' stroke-linejoin='round' stroke-linecap='round' points='111.19,131.76 257.11,311.13 403.04,370.91 548.96,400.81 694.89,418.75 840.81,430.70 '/>
+<circle cx='111.19' cy='131.76' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='257.11' cy='311.13' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='403.04' cy='370.91' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='548.96' cy='400.81' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='694.89' cy='418.75' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<circle cx='840.81' cy='430.70' r='4.50' fill='#ff7eb6' stroke='#0b1020'/>
+<polyline fill='none' stroke='#ffd166' stroke-width='2.20' stroke-linejoin='round' stroke-linecap='round' points='111.19,167.43 257.11,334.90 403.04,390.73 548.96,418.64 694.89,435.39 840.81,446.55 '/>
+<circle cx='111.19' cy='167.43' r='4.50' fill='#ffd166' stroke='#0b1020'/>
+<circle cx='257.11' cy='334.90' r='4.50' fill='#ffd166' stroke='#0b1020'/>
+<circle cx='403.04' cy='390.73' r='4.50' fill='#ffd166' stroke='#0b1020'/>
+<circle cx='548.96' cy='418.64' r='4.50' fill='#ffd166' stroke='#0b1020'/>
+<circle cx='694.89' cy='435.39' r='4.50' fill='#ffd166' stroke='#0b1020'/>
+<circle cx='840.81' cy='446.55' r='4.50' fill='#ffd166' stroke='#0b1020'/>
+</g>
+<text x='864.00' y='303.99' font-size='12.00' fill='#ff9f68' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>limite des tests de la loi de Newton ≈ 30 µm</text>
+<text x='864.00' y='117.36' font-size='12.00' fill='#ff7eb6' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>Terre-Soleil (exclu !)</text>
+<text x='864.00' y='464.22' font-size='12.00' fill='#7ee081' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>portée du LHC ≈ 10⁻¹⁹ m</text>
+<rect x='88.00' y='68.00' width='119.20' height='63.00' rx='4.00' fill='#0b1020' stroke='#2a3358'/>
+<line x1='94.00' y1='77.00' x2='114.00' y2='77.00' stroke='#5cc8ff' stroke-width='3.00'/>
+<text x='120.00' y='81.00' font-size='12.00' fill='#e6e9f5' text-anchor='start' font-family='Helvetica,Arial,sans-serif'>M* = 1 TeV</text>
+<line x1='94.00' y1='96.00' x2='114.00' y2='96.00' stroke='#ff7eb6' stroke-width='3.00'/>
+<text x='120.00' y='100.00' font-size='12.00' fill='#e6e9f5' text-anchor='start' font-family='Helvetica,Arial,sans-serif'>M* = 10 TeV</text>
+<line x1='94.00' y1='115.00' x2='114.00' y2='115.00' stroke='#ffd166' stroke-width='3.00'/>
+<text x='120.00' y='119.00' font-size='12.00' fill='#e6e9f5' text-anchor='start' font-family='Helvetica,Arial,sans-serif'>M* = 100 TeV</text>
+</svg>

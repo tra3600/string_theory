@@ -1,0 +1,62 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900.00 560.00' width='900.00' height='560.00'>
+<rect width='100%' height='100%' fill='#0b1020'/>
+<rect x='82.00' y='66.00' width='788.00' height='428.00' rx='4.00' fill='#131a33' stroke='#2a3358'/>
+<text x='450.00' y='30.00' font-size='20.00' fill='#e6e9f5' text-anchor='middle' font-family='Helvetica,Arial,sans-serif' font-weight='bold'>Trous noirs : rayonnement de Hawking  T = ħc³ / (8πGMk_B)</text>
+<text x='450.00' y='50.00' font-size='12.50' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>plus un trou noir est petit, plus il est chaud — le pont entre gravité quantique, thermodynamique et cordes</text>
+<line x1='82.00' y1='66.00' x2='82.00' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='82.00' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>1e9</text>
+<line x1='174.71' y1='66.00' x2='174.71' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='174.71' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>1e13</text>
+<line x1='267.41' y1='66.00' x2='267.41' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='267.41' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>1e17</text>
+<line x1='360.12' y1='66.00' x2='360.12' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='360.12' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>1e21</text>
+<line x1='452.82' y1='66.00' x2='452.82' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='452.82' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>1e25</text>
+<line x1='545.53' y1='66.00' x2='545.53' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='545.53' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>1e29</text>
+<line x1='638.24' y1='66.00' x2='638.24' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='638.24' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>1e33</text>
+<line x1='730.94' y1='66.00' x2='730.94' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='730.94' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>1e37</text>
+<line x1='823.65' y1='66.00' x2='823.65' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='823.65' y='512.00' font-size='12.00' fill='#9aa4c7' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>1e41</text>
+<line x1='82.00' y1='494.00' x2='870.00' y2='494.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='498.00' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1e-30</text>
+<line x1='82.00' y1='446.44' x2='870.00' y2='446.44' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='450.44' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1e-25</text>
+<line x1='82.00' y1='398.89' x2='870.00' y2='398.89' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='402.89' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1e-20</text>
+<line x1='82.00' y1='351.33' x2='870.00' y2='351.33' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='355.33' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1e-15</text>
+<line x1='82.00' y1='303.78' x2='870.00' y2='303.78' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='307.78' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1e-10</text>
+<line x1='82.00' y1='256.22' x2='870.00' y2='256.22' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='260.22' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1e-5</text>
+<line x1='82.00' y1='208.67' x2='870.00' y2='208.67' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='212.67' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1</text>
+<line x1='82.00' y1='161.11' x2='870.00' y2='161.11' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='165.11' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1e5</text>
+<line x1='82.00' y1='113.56' x2='870.00' y2='113.56' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='117.56' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1e10</text>
+<line x1='82.00' y1='66.00' x2='870.00' y2='66.00' stroke='#2a3358' stroke-width='1.00'/>
+<text x='74.00' y='70.00' font-size='12.00' fill='#9aa4c7' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>1e15</text>
+<text x='476.00' y='546.00' font-size='14.00' fill='#e6e9f5' text-anchor='middle' font-family='Helvetica,Arial,sans-serif'>masse M (kg)</text>
+<text x='20.00' y='280.00' font-size='14.00' fill='#e6e9f5' text-anchor='middle' font-family='Helvetica,Arial,sans-serif' transform='rotate(-90.00 20.00 280.00)'>température de Hawking (K)</text>
+<clipPath id='c'><rect x='82.00' y='66.00' width='788.00' height='428.00'/></clipPath><g clip-path='url(#c)'>
+<line x1='82.00' y1='204.53' x2='870.00' y2='204.53' stroke='#ff9f68' stroke-width='1.50' stroke-dasharray='6 4'/>
+<polyline fill='none' stroke='#5cc8ff' stroke-width='2.20' stroke-linejoin='round' stroke-linecap='round' points='82.00,74.67 85.96,76.29 89.92,77.92 93.88,79.54 97.84,81.17 101.80,82.79 105.76,84.42 109.72,86.04 113.68,87.67 117.64,89.29 121.60,90.92 125.56,92.54 129.52,94.17 133.48,95.79 137.44,97.42 141.40,99.04 145.36,100.67 149.32,102.29 153.28,103.92 157.24,105.54 161.20,107.17 165.16,108.79 169.12,110.42 173.08,112.04 177.04,113.67 180.99,115.29 184.95,116.92 188.91,118.54 192.87,120.17 196.83,121.79 200.79,123.42 204.75,125.04 208.71,126.67 212.67,128.29 216.63,129.92 220.59,131.54 224.55,133.17 228.51,134.79 232.47,136.42 236.43,138.04 240.39,139.67 244.35,141.29 248.31,142.92 252.27,144.54 256.23,146.17 260.19,147.79 264.15,149.42 268.11,151.04 272.07,152.67 276.03,154.29 279.99,155.92 283.95,157.54 287.91,159.17 291.87,160.79 295.83,162.42 299.79,164.04 303.75,165.67 307.71,167.29 311.67,168.92 315.63,170.54 319.59,172.17 323.55,173.79 327.51,175.42 331.47,177.04 335.43,178.67 339.39,180.29 343.35,181.92 347.31,183.54 351.27,185.17 355.23,186.79 359.19,188.42 363.15,190.04 367.11,191.67 371.07,193.29 375.03,194.92 378.98,196.54 382.94,198.17 386.90,199.79 390.86,201.42 394.82,203.04 398.78,204.67 402.74,206.29 406.70,207.92 410.66,209.54 414.62,211.17 418.58,212.79 422.54,214.42 426.50,216.04 430.46,217.67 434.42,219.29 438.38,220.92 442.34,222.54 446.30,224.17 450.26,225.79 454.22,227.42 458.18,229.04 462.14,230.67 466.10,232.29 470.06,233.92 474.02,235.54 477.98,237.17 481.94,238.79 485.90,240.42 489.86,242.04 493.82,243.67 497.78,245.29 501.74,246.92 505.70,248.54 509.66,250.17 513.62,251.79 517.58,253.42 521.54,255.04 525.50,256.67 529.46,258.29 533.42,259.92 537.38,261.54 541.34,263.17 545.30,264.79 549.26,266.42 553.22,268.04 557.18,269.67 561.14,271.29 565.10,272.92 569.06,274.54 573.02,276.17 576.97,277.79 580.93,279.42 584.89,281.04 588.85,282.67 592.81,284.29 596.77,285.92 600.73,287.54 604.69,289.17 608.65,290.79 612.61,292.42 616.57,294.04 620.53,295.67 624.49,297.29 628.45,298.92 632.41,300.54 636.37,302.17 640.33,303.79 644.29,305.42 648.25,307.04 652.21,308.67 656.17,310.29 660.13,311.92 664.09,313.54 668.05,315.17 672.01,316.79 675.97,318.42 679.93,320.04 683.89,321.67 687.85,323.29 691.81,324.92 695.77,326.54 699.73,328.17 703.69,329.79 707.65,331.42 711.61,333.04 715.57,334.67 719.53,336.29 723.49,337.92 727.45,339.54 731.41,341.17 735.37,342.79 739.33,344.42 743.29,346.04 747.25,347.67 751.21,349.29 755.17,350.92 759.13,352.54 763.09,354.17 767.05,355.79 771.01,357.42 774.96,359.04 778.92,360.67 782.88,362.29 786.84,363.92 790.80,365.54 794.76,367.17 798.72,368.79 802.68,370.42 806.64,372.04 810.60,373.67 814.56,375.29 818.52,376.92 822.48,378.54 826.44,380.17 830.40,381.79 834.36,383.42 838.32,385.04 842.28,386.67 846.24,388.29 850.20,389.92 854.16,391.54 858.12,393.17 862.08,394.79 866.04,396.42 870.00,398.04 '/>
+<circle cx='729.36' cy='340.33' r='4.50' fill='#ffd166' stroke='#0b1020'/>
+<circle cx='575.62' cy='277.24' r='4.50' fill='#ffd166' stroke='#0b1020'/>
+<circle cx='447.64' cy='224.72' r='4.50' fill='#ffd166' stroke='#0b1020'/>
+<circle cx='151.53' cy='103.20' r='4.50' fill='#ffd166' stroke='#0b1020'/>
+</g>
+<text x='864.00' y='198.53' font-size='12.00' fill='#ff9f68' text-anchor='end' font-family='Helvetica,Arial,sans-serif'>fond diffus cosmologique 2,7 K</text>
+<text x='737.30' y='338.39' font-size='12.00' fill='#ffd166' text-anchor='start' font-family='Helvetica,Arial,sans-serif'>Sgr A* (4·10⁶ M☉)</text>
+<text x='583.56' y='275.30' font-size='12.00' fill='#ffd166' text-anchor='start' font-family='Helvetica,Arial,sans-serif'>Soleil</text>
+<text x='455.57' y='222.77' font-size='12.00' fill='#ffd166' text-anchor='start' font-family='Helvetica,Arial,sans-serif'>Terre</text>
+<text x='159.47' y='101.26' font-size='12.00' fill='#ffd166' text-anchor='start' font-family='Helvetica,Arial,sans-serif'>trou noir primordial 10¹² kg</text>
+<rect x='88.00' y='68.00' width='79.60' height='25.00' rx='4.00' fill='#0b1020' stroke='#2a3358'/>
+<line x1='94.00' y1='77.00' x2='114.00' y2='77.00' stroke='#5cc8ff' stroke-width='3.00'/>
+<text x='120.00' y='81.00' font-size='12.00' fill='#e6e9f5' text-anchor='start' font-family='Helvetica,Arial,sans-serif'>T_H(M)</text>
+</svg>
